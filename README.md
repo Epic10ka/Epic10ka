@@ -1,4 +1,3 @@
-"#<div align="left">"
 
 ### 👋 Hello!
 
@@ -7,5 +6,3 @@
 💼 Trainee | Using code to automate and improve workflows
 
 📧 lucasfortesrocha2@gmail.com
-
-"</div>"
