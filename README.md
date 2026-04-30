@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/seuuser" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" />
   </a>
-  <a href="https://instagram.com/seuuser" target="_blank">
+  <a href="https://www.instagram.com/epic10ka/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" />
   </a>
 </div>
