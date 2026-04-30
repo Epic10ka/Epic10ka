@@ -13,5 +13,5 @@
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://instagram.com/seu-perfil" target="_blank">
-  <img src="https://www.instagram.com/epic10ka/" />
+  <img src="./icons/instagram.png" width="48" />
 </a>
