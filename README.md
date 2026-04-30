@@ -9,6 +9,11 @@
 
 📧 Contact me: lucasfortesrocha2@gmail.com
 
-<a href="www.linkedin.com/in/lucas-fortes-rocha-4a4455350">
-    <img src="https://pt.wikipedia.org/wiki/File:LinkedIn_logo_initials.png" alt="Logo LinkedIn">
-</a>
+<div align="left">
+  <a href="https://linkedin.com/in/seuuser" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" />
+  </a>
+  <a href="https://instagram.com/seuuser" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" />
+  </a>
+</div>
