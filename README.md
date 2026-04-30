@@ -9,5 +9,10 @@
 
 📧 Contact me: lucasfortesrocha2@gmail.com
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/lucas-fortes-rocha-4a4455350)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/epic10ka/)
+
+<a href = "www.linkedin.com/in/lucas-fortes-rocha-4a4455350" target="_blank">
+  <img src = "https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href = "https://www.instagram.com/epic10ka/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
