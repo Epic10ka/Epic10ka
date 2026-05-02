@@ -9,7 +9,7 @@
 
 📧 Contact me: lucasfortesrocha2@gmail.com
 
-<a href="www.linkedin.com/in/lucas-fortes-rocha-4a4455350l" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-fortes-rocha-4a4455350/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" height="40"/>
 </a>
 &nbsp;
