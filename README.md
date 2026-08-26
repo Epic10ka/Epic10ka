@@ -35,11 +35,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=Python&labelColor=000000&color=36454F)
 
 ---
-📊 GitHub Stats
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Epic10ka&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic10ka&layout=compact&theme=tokyonight" />
-</p>
+
 ---
 
 🧠 "What i think"
