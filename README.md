@@ -1,11 +1,12 @@
-Hello 👋, I'm Lucas Fortes
+### Hello 👋, I'm Lucas Fortes
+
 🖳 Trainee Software Developer | Python, for now
 
-Systems Analysis and Development student with practical experience in technology applied to administrative and logistics processes.
+### Systems Analysis and Development student with practical experience in technology applied to administrative and logistics processes.
 
-I develop Python-based CLI projects focused on automation and data manipulation, with knowledge of Object-Oriented Programming, data structures, and Git/GitHub. 
+### I develop Python-based CLI projects focused on automation and data manipulation, with knowledge of Object-Oriented Programming, data structures, and Git/GitHub. 
 
-I am seeking an internship opportunity in Software Development and Technology.
+### I am seeking an internship opportunity in Software Development and Technology.
 
 ---
 
@@ -40,9 +41,12 @@ I am seeking an internship opportunity in Software Development and Technology.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic10ka&layout=compact&theme=tokyonight" />
 </p>
 ---
-🚀 Philosophy
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+
+🧠 "What i think"
+> _"Technology is cool to understand.  
+> I like to study it until i understand it completly"_
 ---
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+
+- If you like my work, consider starring a repository ⭐ 
+
+- 🤝 I'm open to partnerships, projects and new ideas
