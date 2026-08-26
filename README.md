@@ -7,21 +7,10 @@ I develop Python-based CLI projects focused on automation and data manipulation,
 ---
 
  🛜 **Where to find me**
-<table border="0">
-  <tr>
-    <td>
-  <a href="https://github.com/Epic10ka/Epic10ka">
-    ![Static Badge](https://img.shields.io/badge/GITHUB-Epic10ka-36454F?style=for-the-badge&logo=GITHUB)
-        </a>
-    </td>
-    <td>
-  <a href="https://www.linkedin.com/in/lucas-fortes-rocha-4a4455350/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Lucas%20Fortes%20Rocha-318CE7?style=for-the-badge&logo=LinkedIN&labelColor=003262
-    " />
-      </a>
-    </td>
-  </tr>
-</table>
+ 
+![Static Badge](https://img.shields.io/badge/GITHUB-Epic10ka-36454F?style=for-the-badge&logo=GITHUB)  -_-  ![Static Badge](https://img.shields.io/badge/LINKEDIN-Epic10ka-003262?style=for-the-badge&logoColor=318CE7&labelColor=318CE7)
+
+
 
 ---
 🧠 What I do
