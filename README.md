@@ -11,8 +11,7 @@ I develop Python-based CLI projects focused on automation and data manipulation,
   <tr>
     <td>
   <a href="https://github.com/Epic10ka/Epic10ka">
-    <img src="https://img.shields.io/badge/Epic10ka%20-%20Epic10ka?style=for-the-badge&logo=github&label=GITHUB&color=%23181717
-    " />
+    ![Static Badge](https://img.shields.io/badge/GITHUB-Epic10ka-36454F?style=for-the-badge&logo=GITHUB)
         </a>
     </td>
     <td>
