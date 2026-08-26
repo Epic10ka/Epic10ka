@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Lucas Fortes
 
-🖳 Trainee Software Developer | Python, for now
+🖳 Trainee Software Developer | Python. For now...
 
 ### Systems Analysis and Development student with practical experience in technology applied to administrative and logistics processes.
 
@@ -30,7 +30,7 @@
 ---
 
 🛠️ Tech Stack  
-**Data, for now.**
+**Data and software. For now...**
 
 ![Static Badge](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=Python&labelColor=000000&color=36454F)
 
