@@ -3,7 +3,10 @@ Hello 👋, I'm Lucas Fortes
 
 
 Systems Analysis and Development student with practical experience in technology applied to administrative and logistics processes.
-I develop Python-based CLI projects focused on automation and data manipulation, with knowledge of Object-Oriented Programming, data structures, and Git/GitHub. I am seeking an internship opportunity in Software Development and Technology.
+
+I develop Python-based CLI projects focused on automation and data manipulation, with knowledge of Object-Oriented Programming, data structures, and Git/GitHub. 
+
+I am seeking an internship opportunity in Software Development and Technology.
 ---
 
  🛜 **Where to find me**
