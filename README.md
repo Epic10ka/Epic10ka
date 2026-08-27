@@ -12,7 +12,7 @@
 
  🛜 **Where to find me**
  
-![Static Badge](https://img.shields.io/badge/GITHUB-Epic10ka-36454F?style=for-the-badge&logo=GITHUB)  -_-  ![Static Badge](https://img.shields.io/badge/LINKEDIN-Lucas%20Fortes%20Rocha-318CE7?style=for-the-badge&labelColor=3457D5)
+![Static Badge](https://img.shields.io/badge/GITHUB-Epic10ka-36454F?style=for-the-badge&logo=GITHUB)(https://github.com/Epic10ka)  -_-  ![Static Badge](https://img.shields.io/badge/LINKEDIN-Lucas%20Fortes%20Rocha-318CE7?style=for-the-badge&labelColor=3457D5)(www.linkedin.com/in/lucas-fortes-rocha-4a4455350)
 
 
 
