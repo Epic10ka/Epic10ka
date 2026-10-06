@@ -30,8 +30,7 @@
 
 ---
 
-🛠️ Tech Stack  
-**Data and software. For now...**
+🛠️ Tech Stack 
 
 ![Static Badge](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=Python&labelColor=000000&color=36454F)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=black)
