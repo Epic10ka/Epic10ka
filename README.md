@@ -34,6 +34,7 @@
 **Data and software. For now...**
 
 ![Static Badge](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=Python&labelColor=000000&color=36454F)
+![Static Badge](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black)
 
 ---
 
