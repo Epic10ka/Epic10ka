@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Lucas Fortes
 
-🖳 Trainee Software Developer | Python. For now...
+🖳 Trainee Software Developer | Python, JavaScript, HMTL, CSS
 
 ### Systems Analysis and Development student with practical experience in technology applied to administrative and logistics processes.
 
