@@ -42,8 +42,8 @@
 ---
 
 🧠 "What i think"
-> _"Technology is cool to understand.  
-> I like to study it until i understand it completly"_
+> _"Knowledge is what precedes Sucess.  
+> So keep doing it."_
 ---
 
 - If you like my work, consider starring a repository ⭐ 
