@@ -42,7 +42,7 @@
 ---
 
 🧠 "What i think"
-> _"Knowledge is what precedes Sucess.  
+> _"Knowledge is what precedes Success.  
 > So keep doing it."_
 ---
 
